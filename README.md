@@ -1,2 +1,3 @@
-# css_flex_grid
-css_flex_grid
+# React multiple select component
+
+- React multiple select component 라이브러리
