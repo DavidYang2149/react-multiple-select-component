@@ -1,7 +1,9 @@
 {
   "name": "react-multiple-select-component",
   "version": "0.0.1",
-  "description": "- React multiple select component 라이브러리",
+  "description": "react multiple select component",
+  "author": "davidyang2149",
+  "license": "GPL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/DavidYang2149/react-multiple-select-component.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "react",
+    "multiple",
+    "select",
+    "component",
+    "react-multiple-select-component"
+  ],
+  
   "bugs": {
     "url": "https://github.com/DavidYang2149/react-multiple-select-component/issues"
   },
