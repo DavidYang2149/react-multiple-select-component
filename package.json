@@ -1,5 +1,5 @@
 {
-  "name": "react-multiple-select-component",
+  "name": "react-select-multiple-component",
   "version": "0.0.1",
   "description": "react multiple select component",
   "author": "davidyang2149",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidYang2149/react-multiple-select-component.git"
+    "url": "git+https://github.com/DavidYang2149/react-select-multiple-component.git"
   },
   "keywords": [
     "react",
-    "multiple",
     "select",
+    "multiple",
     "component",
-    "react-multiple-select-component"
+    "react-select-multiple-component"
   ],
   "bugs": {
-    "url": "https://github.com/DavidYang2149/react-multiple-select-component/issues"
+    "url": "https://github.com/DavidYang2149/react-select-multiple-component/issues"
   },
-  "homepage": "https://github.com/DavidYang2149/react-multiple-select-component#readme",
+  "homepage": "https://github.com/DavidYang2149/react-select-multiple-component#readme",
   "devDependencies": {
     "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.11",
